@@ -1,0 +1,6 @@
+spring:
+  graphql:
+    websocket:
+      path: /graphql
+#    rsocket:
+#      mapping: graphql
